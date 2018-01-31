@@ -1,5 +1,5 @@
-# -express
-express+mongoose+vue   学习demo
+# 简单的商城购物网站
+express+mongoose+vue  学习demo
 
 
 前端   vue。
