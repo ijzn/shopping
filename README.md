@@ -9,6 +9,8 @@ express+mongoose+vue   学习demo
 
 访问链接：www.jznan.top
 
+账号   admin
+密码   123456
 
 实战视频请到慕课网，支持原创，尊重版权。
 链接在此，走你。
